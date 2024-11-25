@@ -14,7 +14,7 @@ const Navbar = () => {
                               {/* Home */}
                               <li className="group relative">
                                     <NavLink
-                                          to=""
+                                          to="/home"
                                           className={({isActive}) => `flex items-center font-[600] text-[1.5em]  ${isActive ?"text-orange-600" :"text-gray-700"} transition-colors duration-300`}
                                     >
                                           <span
