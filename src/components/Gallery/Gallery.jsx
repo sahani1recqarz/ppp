@@ -72,7 +72,7 @@ const Gallery = () => {
 
 
       <div>
-        <h1>Hii</h1>
+        <div className="bg-red-600 py-20 flex justify-center ">my new design coming soon !</div>
       </div>
     </div>
   );
